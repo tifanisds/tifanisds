@@ -2,8 +2,7 @@
 
 ###
 
-![Gif pixel art](https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif)
-<img width="12" />
+<img src="https://i.pinimg.com/originals/92/98/b8/9298b8aa90e9bc71a6162878ee24cbeb.gif" width="40" height="40" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tifanisds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
