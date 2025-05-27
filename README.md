@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou a Tífani :)</h2>
+<h2 align="left">Olá! Me chamo Tífani :)</h2>
 
 ###
 
