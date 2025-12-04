@@ -2,9 +2,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/92/98/b8/9298b8aa90e9bc71a6162878ee24cbeb.gif" width="800" height="400" />
-</div>
+Tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento.
+Gosto de aprender explorando, criando projetos e transformando meus estudos em resumos e conteúdos explicativos.
+No meu GitHub você vai encontrar projetos reais, exercícios, anotações e tudo o que estou construindo nessa jornada dev  💻✨🩷
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tifanisds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
