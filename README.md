@@ -2,7 +2,7 @@
 
 ###
 
-Tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento.
+Tenho 20 anos e sou apaixonada por tecnologia e desenvolvimento.
 Gosto de aprender explorando, criando projetos e transformando meus estudos em resumos e conteúdos explicativos.
 No meu GitHub você vai encontrar projetos reais, exercícios, anotações e tudo o que estou construindo nessa jornada dev  💻✨🩷
 
