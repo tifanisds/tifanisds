@@ -46,6 +46,9 @@ No meu GitHub você vai encontrar projetos reais, exercícios, anotações e tud
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height="40" alt="java logo" />
+  <img width="12" />
+          
   
   
 
