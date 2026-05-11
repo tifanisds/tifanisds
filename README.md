@@ -4,9 +4,12 @@
 
 ###
 
-Tenho 20 anos e sou apaixonada por tecnologia e desenvolvimento.
-Gosto de aprender explorando, criando projetos e transformando meus estudos em resumos e conteúdos explicativos.
-No meu GitHub você vai encontrar projetos reais, exercícios, anotações e tudo o que estou construindo nessa jornada dev  💻✨🩷
+Tenho 20 anos, sou natural da Bahia, de Lauro de Freitas, região metropolitana de Salvador, e sou apaixonada por tecnologia, desenvolvimento e inovação 💻✨🩷
+
+Tenho experiência com JavaScript (React e Vue.js), HTML, CSS, Tailwind, PHP, Laravel, Java, Docker, MySQL  e Git. Adoro criar projetos pessoais, explorar novas tecnologias e transformar meus estudos em conteúdos, tutoriais e posts sobre programação e desenvolvimento.
+
+No meu GitHub compartilho projetos, aplicações reais, estudos, anotações e tudo que faz parte da minha jornada dev. Também gosto muito de compartilhar minha evolução e conteúdos sobre tecnologia no LinkedIn. 🤓
+
 
 
 ### 🤖 Linguagens e Tecnologias
